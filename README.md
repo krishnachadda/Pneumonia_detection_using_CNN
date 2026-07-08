@@ -115,7 +115,7 @@ CNN_Assignment/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+[https://github.com/krishnachadda/Pneumonia_detection_using_CNN.git]
 ```
 
 Install dependencies
